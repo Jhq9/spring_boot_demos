@@ -1,0 +1,7 @@
+security:
+  user:
+    name: user
+    password: admin
+management:
+  security:
+    enabled: false
